@@ -1,49 +1,53 @@
 <div align="center">
 
 <p>
-<a href="https://github.com/zggsong/STranslate" target="_blank">
-<img align="center" alt="STranslate" width="200" src="./attachments/imgs/favicon.svg" />
+<a href="https://github.com/STranslate/STranslate" target="_blank">
+<img align="center" alt="STranslate" width="200" src="./images/favicon.svg" />
 </a>
 </p>
 <p>
-<a href="https://github.com/ZGGSONG/STranslate/blob/main/LICENSE" target="_self">
+<a href="https://github.com/STranslate/STranslate/blob/main/LICENSE" target="_self">
  <img alt="Latest GitHub release" src="https://img.shields.io/github/license/ZGGSONG/STranslate" />
 </a>
-<a href="https://github.com/ZGGSONG/STranslate/releases/latest" target="_blank">
+<a href="https://github.com/STranslate/STranslate/releases/latest" target="_blank">
  <img alt="Latest GitHub release" src="https://img.shields.io/github/release/ZGGSONG/STranslate.svg" />
 </a>
-<a href="https://github.com/ZGGSONG/STranslate/releases" target="_self">
+<a href="https://github.com/STranslate/STranslate/releases" target="_self">
  <img alt="Downloads" src="https://img.shields.io/github/downloads/ZGGSONG/STranslate/total" />
 </a>
-<a href="https://github.com/ZGGSONG/STranslate/discussions" target="_self">
+<a href="https://github.com/STranslate/STranslate/discussions" target="_self">
  <img alt="Discussions" src="https://img.shields.io/github/discussions/ZGGSONG/STranslate" />
 </a>
 </p>
 
-<h1 align="center">STranslate</h1>
+<h1 align="center">STranslate 2.0</h1>
 
 [**English**](./README.md) | **简体中文**
 
-<a href="https://trendshift.io/repositories/6979" target="_blank"><img src="https://trendshift.io/api/badge/repositories/6979" alt="ZGGSONG%2FSTranslate | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
+<p align="center">
+  <a href="https://trendshift.io/repositories/15843" target="_blank">
+    <img src="https://trendshift.io/api/badge/repositories/15843" alt="STranslate%2FSTranslate | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/>
+  </a>
+
+  <a href="https://hellogithub.com/repository/STranslate/STranslate" target="_blank">
+    <img src="https://api.hellogithub.com/v1/widgets/recommend.svg?rid=2af2034bb1e84122aac1d39046be20ec&claim_uid=WnBC6wua27iPR9t&theme=neutral" alt="Featured｜HelloGitHub" style="width: 250px; height: 54px;" width="250" height="54" />
+  </a>
+</p>
 
 <p align="center">WPF 开发的一款<strong>即用即走</strong>的翻译、OCR工具</p>
 
-<small>随着功能的更新以及免费服务的限制，建议申请服务并进行相应的配置以获得更好的使用体验</small>
-
 </div>
-
-<br/>
 
 ## 访问
 
 | 国外 | 国内 |
 | :--: | :--: |
-| **[Github](https://github.com/ZGGSONG/STranslate)** | **[Gitee](https://gitee.com/zggsong/STranslate)** |
+| **[Github](https://github.com/STranslate/STranslate)** | **[Gitee](https://gitee.com/zggsong/STranslate)** |
 
 
 ## 安装
 
-下载最新 [Release](https://github.com/ZGGSONG/STranslate/releases) 版本后解压即可使用
+下载最新 [Release](https://github.com/STranslate/STranslate/releases) 版本后解压即可使用
 
 ## 使用
 
@@ -51,30 +55,15 @@
 
 ## 讨论
 
-有疑问移步 [Discussions](https://github.com/ZGGSONG/STranslate/discussions) 进行讨论
+有疑问移步 [Discussions](https://github.com/STranslate/STranslate/discussions) 进行讨论
 
-## 合作推广
+> 如果您想加入用户交流群，可以扫描下方二维码
 
-🛠️ **官方API合作伙伴**  
-
-[DeerAPI](https://api.deerapi.com/register?aff=j5dj) - AI聚合平台，一键调用500+模型，7折特惠，最新GPT4o、Grok 3、Gemini 2.5pro全支持！
-
-[点击注册](https://api.deerapi.com/register?aff=j5dj)享免费试用额度，也能支持软件长久发展
+<img src="./images/telegram_group.jpg" Width="160" />
 
 ## 感谢
 
-- 特别鸣谢 [zu1k](https://github.com/zu1k)
-- 感谢 [Bob](https://bobtranslate.com/guide/) 的启发
-- 感谢 [LxgwWenKai](https://github.com/lxgw/LxgwWenKai)
-- 感谢 [PaddleOCRSharp](https://gitee.com/raoyutian/paddle-ocrsharp) 对 `PaddleOCR` 的封装
-- 感谢 [pot-desktop](https://pot-app.com/) `Prompt` 设计思路
-- 感谢 [GTranslate](https://github.com/d4n3436/GTranslate) Microsoft/Yandex 服务源码
-- 感谢 `ChatGPT`、`Github Copilot`
-- 感谢 JetBrains 提供开源项目免费License
-- 感谢 [发文分享](Sponsor.md#分享支持)
-- 感谢 [CopyTranslator](https://github.com/CopyTranslator/CopyTranslator) 净化文本功能
-
-<a href="https://jb.gg/OpenSourceSupport"><img src="./attachments/imgs/jb_beam.svg" /></a>
+<a href="https://jb.gg/OpenSourceSupport"><img src="./images/jb_beam.svg" /></a>
 
 ## 打赏
 
@@ -84,18 +73,20 @@
 
 | 微信 | 支付宝 |
 | :--: | :--: |
-|![wehcatpay](./attachments/imgs/wechatpay.jpg) | ![alipay](./attachments/imgs/alipay.jpg) |
-
-## 其他
-
-**软件开源且免费，如有特殊定制化需求，本人接受付费开发 [邮件](zggsong@foxmail.com)**
+|![wehcatpay](./images/wechatpay.jpg) | ![alipay](./images/alipay.jpg) |
 
 ## 作者
 
-**STranslate** © [zggsong](https://github.com/zggsong), Released under the [MIT](https://github.com/ZGGSONG/STranslate/blob/main/LICENSE) License.<br>
+**STranslate**
 
-> Website [Blog](https://www.zggsong.com) · GitHub [@zggsong](https://github.com/zggsong)
+版权所有 © [zggsong](https://github.com/zggsong)
+
+- 原始作者：[@zggsong](https://github.com/zggsong)
+- 项目组织：[STranslate](https://github.com/STranslate)
+- 许可证：[MIT](./LICENSE)
+
+> [Website](https://stranslate.zggsong.com) [Blog](https://www.zggsong.com)
 
 ## 星标历史
 
-[![Star History Chart](https://api.star-history.com/svg?repos=ZGGSONG/STranslate&type=Date)](https://star-history.com/#ZGGSONG/STranslate&Date)
+[![Star History Chart](https://star-history.dera.page/svg?repos=ZGGSONG/STranslate&type=Date)](https://star-history.dera.page/#ZGGSONG/STranslate&Date)

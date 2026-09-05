@@ -1,6 +1,8 @@
 .vs/
 bin/
 obj/
+*_wpftmp.csproj
+*.wpftmp.csproj
 *.user
 .idea/
 .dist/
@@ -9,8 +11,14 @@ packages/
 
 .DS_Store
 
-
+src/Plugins/ThirdPlugins/
 publish/
 
 # rust
 target/
+
+# claude code
+[Nn][Uu][Ll]
+
+# superpowers docs
+docs/superpowers/

@@ -1,48 +1,52 @@
 <div align="center">
 
 <p>
-<a href="https://github.com/zggsong/STranslate" target="_blank">
-<img align="center" alt="STranslate" width="200" src="./attachments/imgs/favicon.svg" />
+<a href="https://github.com/STranslate/STranslate" target="_blank">
+<img align="center" alt="STranslate" width="200" src="./images/favicon.svg" />
 </a>
 </p>
 <p>
-<a href="https://github.com/ZGGSONG/STranslate/blob/main/LICENSE" target="_self">
+<a href="https://github.com/STranslate/STranslate/blob/main/LICENSE" target="_self">
  <img alt="Latest GitHub release" src="https://img.shields.io/github/license/ZGGSONG/STranslate" />
 </a>
-<a href="https://github.com/ZGGSONG/STranslate/releases/latest" target="_blank">
+<a href="https://github.com/STranslate/STranslate/releases/latest" target="_blank">
  <img alt="Latest GitHub release" src="https://img.shields.io/github/release/ZGGSONG/STranslate.svg" />
 </a>
-<a href="https://github.com/ZGGSONG/STranslate/releases" target="_self">
+<a href="https://github.com/STranslate/STranslate/releases" target="_self">
  <img alt="Downloads" src="https://img.shields.io/github/downloads/ZGGSONG/STranslate/total" />
 </a>
-<a href="https://github.com/ZGGSONG/STranslate/discussions" target="_self">
+<a href="https://github.com/STranslate/STranslate/discussions" target="_self">
  <img alt="Discussions" src="https://img.shields.io/github/discussions/ZGGSONG/STranslate" />
 </a>
 </p>
 
-<h1 align="center">STranslate</h1>
+<h1 align="center">STranslate 2.0</h1>
 
 **English** | [**简体中文**](./README_ZH.md)
 
-<a href="https://trendshift.io/repositories/6979" target="_blank"><img src="https://trendshift.io/api/badge/repositories/6979" alt="ZGGSONG%2FSTranslate | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
+<p align="center">
+  <a href="https://trendshift.io/repositories/15843" target="_blank">
+    <img src="https://trendshift.io/api/badge/repositories/15843" alt="STranslate%2FSTranslate | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/>
+  </a>
+
+  <a href="https://hellogithub.com/repository/STranslate/STranslate" target="_blank">
+    <img src="https://api.hellogithub.com/v1/widgets/recommend.svg?rid=2af2034bb1e84122aac1d39046be20ec&claim_uid=WnBC6wua27iPR9t&theme=neutral" alt="Featured｜HelloGitHub" style="width: 250px; height: 54px;" width="250" height="54" />
+  </a>
+</p>
 
 <p align="center">A <strong>ready-to-go</strong> translation and OCR tool developed with WPF.</p>
 
-<small>With the update of features and the limitations of free services, it is recommended to apply for the service and make the corresponding configurations to obtain a better user experience.</small>
-
 </div>
-
-<br/>
 
 ## Access
 
 | Overseas | Domestic |
 | :--: | :--: |
-| **[Github](https://github.com/ZGGSONG/STranslate)** | **[Gitee](https://gitee.com/zggsong/STranslate)** |
+| **[Github](https://github.com/STranslate/STranslate)** | **[Gitee](https://gitee.com/zggsong/STranslate)** |
 
 ## Installation
 
-Download the latest [Release](https://github.com/ZGGSONG/STranslate/releases) version and extract it to use.
+Download the latest [Release](https://github.com/STranslate/STranslate/releases) version and extract it to use.
 
 ## Usage
 
@@ -50,30 +54,15 @@ Download the latest [Release](https://github.com/ZGGSONG/STranslate/releases) ve
 
 ## Discussion
 
-If you have questions, please go to [Discussions](https://github.com/ZGGSONG/STranslate/discussions) for discussion.
+If you have questions, please go to [Discussions](https://github.com/STranslate/STranslate/discussions) for discussion.
 
-## Cooperative promotion
+> If you want to join the user exchange group, you can scan the QR code below
 
-🛠️ **Official API Partner**  
+<img src="./images/telegram_group.jpg" Width="160" />
 
-[DeerAPI](https://api.deerapi.com/register?aff=j5dj) - AI aggregation platform, one-click access to 500+ models, 30% off special offer, full support for the latest GPT4o, Grok 3, Gemini 2.5pro!
+## Support the project
 
-[Click to register](https://api.deerapi.com/register?aff=j5dj) for a free trial quota, also supporting the long-term development of the software.
-
-## Acknowledgments
-
-- Special thanks to [zu1k](https://github.com/zu1k)
-- Thanks to [Bob](https://bobtranslate.com/guide/) for inspiration
-- Thanks to [LxgwWenKai](https://github.com/lxgw/LxgwWenKai)
-- Thanks to [PaddleOCRSharp](https://gitee.com/raoyutian/paddle-ocrsharp) for packing `PaddleOCR`
-- Thanks to [pot-desktop](https://pot-app.com/) for `Prompt` design ideas
-- Thanks to [GTranslate](https://github.com/d4n3436/GTranslate ) Microsoft/Yandex service source code
-- Thanks to `ChatGPT`、`Github Copilot`
-- Thanks to JetBrains for providing open-source project free License
-- Thanks for [Posting Sharing](Sponsor.md#分享支持)
-- Thanks to [CopyTranslator](https://github.com/CopyTranslator/CopyTranslator) for the realization of purification function
-
-<a href="https://jb.gg/OpenSourceSupport"><img src="./attachments/imgs/jb_beam.svg" /></a>
+<a href="https://jb.gg/OpenSourceSupport"><img src="./images/jb_beam.svg" /></a>
 
 ## Donations
 
@@ -83,18 +72,22 @@ If you like it, you can buy the author a cup of coffee.
 
 | WeChat | Alipay |
 | :--: | :--: |
-|![wehcatpay](./attachments/imgs/wechatpay.jpg) | ![alipay](./attachments/imgs/alipay.jpg) |
+|![wehcatpay](./images/wechatpay.jpg) | ![alipay](./images/alipay.jpg) |
 
-## Others
+## Author & Maintainer
 
-**The software is open source and free of charge. If there are special customization needs, I accept paid development [email](zggsong@foxmail.com)**
+**STranslate**
 
-## Author
+Copyright © [zggsong](https://github.com/zggsong)
 
-**STranslate** © [zggsong](https://github.com/zggsong), Released under the [MIT](https://github.com/ZGGSONG/STranslate/blob/main/LICENSE) License.<br>
+- Original author: [zggsong](https://github.com/zggsong)
+- Organization: [STranslate](https://github.com/STranslate)
+- License: [MIT](./LICENSE)
 
-> Website [Blog](https://www.zggsong.com) · GitHub [@zggsong](https://github.com/zggsong)
+> [Website](https://stranslate.zggsong.com) [Blog](https://www.zggsong.com)
+
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=ZGGSONG/STranslate&type=Date)](https://star-history.com/#ZGGSONG/STranslate&Date)
+[![Star History Chart](https://star-history.dera.page/svg?repos=STranslate/STranslate&type=Date)](https://star-history.dera.page/#STranslate/STranslate&Date)
+
